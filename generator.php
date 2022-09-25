@@ -45,7 +45,7 @@
 		}
 
 	?>
-	<div type="text" id="result" /><?php $generator = new GeneratorClass(); echo $generator->generator(); ?></div>
+	<div id="result" /><?php $generator = new GeneratorClass(); echo $generator->generator(); ?></div>
 	<script type="text/javascript">
 		function copyEvent(id)
 	    {
