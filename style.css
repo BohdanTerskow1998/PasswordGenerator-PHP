@@ -1,0 +1,21 @@
+.container {
+	margin-left: 0px;
+}
+input[name=numberFrom] {
+	margin-left: 21px;
+}
+input[name=numberTo] {
+	margin-left: 30px;
+}
+input {
+	margin-top: 4px;
+}
+input[name="letters"], input[name="numbers"], input[name="symbols"] {
+	margin-right: 10px;
+}
+#buttons {
+	display: flex;
+}
+#buttons>button {
+	margin-right: 4px;
+}
